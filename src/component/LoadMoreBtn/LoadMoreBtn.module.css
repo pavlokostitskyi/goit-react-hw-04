@@ -1,0 +1,15 @@
+.btnContainer{
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.LoadMoreBtn{
+    background-color:blue ;
+    color: #fff;
+    width: 118px;
+    height:40px;
+    margin-bottom: 20px;
+    border:  none;
+
+}
